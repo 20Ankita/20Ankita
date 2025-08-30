@@ -24,7 +24,10 @@
 ## 📂 Projects & Repositories:
 - 🔐 **Bitcoin Illegal Usage Detection** – Data analysis of Bitcoin transactions to identify illegal activities.  
 - 🤖 **Deepfake Detection using Machine Learning** – Research-based project on detecting fake media.  
-- 🌐 **Web Portfolio** – A personal portfolio built with HTML, CSS, and JavaScript.  
+
+ ### Research Papers:
+- 📄 [Exploration of Bitcoin Illegal Usage Patterns](https://ieeexplore.ieee.org/document/10742821) – IEEE Xplore  
+- 📄 [Exploration & Pattern Analysis of Bitcoin Address Behaviour](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003561651-46/exploration-pattern-analysis-bitcoin-address-behaviour-ankita-parihar-amit-kumar-abhishek) – Taylor & Francis 
 
 👉 Check out my repositories here: [My GitHub Repos](https://github.com/20Ankita?tab=repositories)
 
